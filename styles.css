@@ -1,0 +1,32 @@
+
+*body{
+    font-family: arial, sans-serif;
+    align-content: center;
+}
+
+#Item_Name{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Item_Motto{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50;
+}
+
+td, th{
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+}
